@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    
+}
+html,body{
+    font-size: 62,5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-rendering: optimizeLegibility;
+    height: 100%;
+}
+body{
+    background-color: blueviolet;
+}
